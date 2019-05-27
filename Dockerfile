@@ -40,4 +40,5 @@ libdrm-devel libstdc++-devel libuuid-devel libxml2-devel lockdev-devel \
 libjpeg-turbo-devel openldap-devel netpbm-devel popt-devel python-devel \
 rpm-devel tcl-devel tk-devel openssh-clients PyXML HEP_OSlibs_SL6 \
 voms-clients3 wlcg-voms-alice wlcg-voms-atlas wlcg-voms-lhcb wlcg-voms-cms \
-wlcg-voms-ops ca-policy-egi-core emi-wn 
+wlcg-voms-ops ca-policy-egi-core emi-wn \
+HEP_OSlibs
