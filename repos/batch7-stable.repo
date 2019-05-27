@@ -1,0 +1,7 @@
+[batch7-stable]
+name=CERN Batch specific software [stable]
+baseurl=http://linuxsoft.cern.ch/internal/repos/batch7-stable/x86_64/os
+enabled=1
+gpgcheck=False
+priority=10
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-koji file:///etc/pki/rpm-gpg/RPM-GPG-KEY-kojiv2
