@@ -26,9 +26,6 @@ RUN yum -y install \
   glibc-headers \
   globus-proxy-utils \
   globus-gass-copy-progs \
-  lcmaps-plugins-condor-update \
-  lcmaps-plugins-mount-under-scratch \
-  lcmaps-plugins-namespace \
   redhat-lsb-core \
   which
 
@@ -39,6 +36,10 @@ libattr-devel libcap-devel libcom_err-devel libcurl-devel libdrm-devel \
 libdrm-devel libstdc++-devel libuuid-devel libxml2-devel lockdev-devel \
 libjpeg-turbo-devel openldap-devel netpbm-devel popt-devel python-devel \
 rpm-devel tcl-devel tk-devel openssh-clients PyXML HEP_OSlibs_SL6 \
-voms-clients3 wlcg-voms-alice wlcg-voms-atlas wlcg-voms-lhcb wlcg-voms-cms \
-wlcg-voms-ops ca-policy-egi-core emi-wn \
-HEP_OSlibs
+voms-clients3 wlcg-voms-cms emi-wn \
+HEP_OSlibs time tar perl bzip2 gcc freetype glibc-headers glibc-devel \
+subversion make gcc gcc-c++ binutils patch wget python python3 libxml2-devel \
+libX11-devel libXpm-devel libXft-devel libXext-devel bzip2-devel openssl-devel \
+ncurses-dev-el readline-devel mesa-libGL-devel libgfortran.x86_64 glew-devel \
+git krb5-workstation libtool-ltdl lcg-util.x86_64 bc tcsh atlas sssd-client \
+gsl gsl-devel xrootd-client 

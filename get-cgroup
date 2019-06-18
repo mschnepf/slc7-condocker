@@ -1,2 +1,0 @@
-#!/bin/bash
-cat /proc/1/cgroup | cut -d\/ -f2 | head -n1
